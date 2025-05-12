@@ -9,5 +9,5 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name "mnulghani"
 git config --global user.email "mnulghani@gmail.com"
-
+git checkout -b
 
