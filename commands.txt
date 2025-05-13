@@ -9,9 +9,13 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name "mnulghani"
 git config --global user.email "mnulghani@gmail.com"
+<<<<<<< HEAD
 git clone
 git remote -v
 git fetch
 git pull
 git push
+=======
+git checkout -b
+>>>>>>> dev
 
