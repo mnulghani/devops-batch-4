@@ -1,3 +1,8 @@
 This is feature 
 This is done by m.k.
+<<<<<<< HEAD
 by some one
+=======
+
+by nadeem
+>>>>>>> f54a530 (Added by Nadeem)
